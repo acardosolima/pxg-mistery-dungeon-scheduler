@@ -1,1 +1,1 @@
-# pxg-mistery-dungeon-scheduler
+# PXG Mistery Dungeon Scheduler
